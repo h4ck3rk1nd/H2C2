@@ -1,2 +1,2 @@
-# h2c2
-Command and Control Server for Red Teamers
+# h2c2 -- H3ll House Command and Control
+## Command and Control Server for Red Teamers
